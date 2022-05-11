@@ -1,0 +1,9 @@
+@charset "utf-8";
+.nova {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 12px;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: 100% 100%;
+	position: fixed;
+}
